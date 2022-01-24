@@ -23,6 +23,7 @@ System.out.print(Math.max(Math.abs(i - n), Math.abs(j - n)) + 1 + " ");
 System.out.println("Surya changes");
 }  
 System.out.println();  
+System.out.Println(Second changes");
 }  
 }  
 //driver code  
